@@ -1,1 +1,8 @@
+title: "Fred Phillips' Blog"
+url: "https://fred.codes"
+github_username: fophillips
 remote_theme: riggraz/no-style-please
+theme_config:
+  appearance: "dark"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
